@@ -1,3 +1,5 @@
+# recap du tuto https://www.youtube.com/watch?v=FJb8xOhX3ZE&t=108s
+
 # install next 13
 
 voir next js config pour activer le répertoire app et les fonctions expérimentales
